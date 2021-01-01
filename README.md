@@ -1,24 +1,7 @@
-# README
+## Ruby Food Tracker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple application where users can log their daily food intake. Users can create new entries and keep track of what meals they have eaten.
 
-Things you may want to cover:
+### But why?
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To practice CRUD operations in Ruby, get a sense of how Magical Rails really. Scaffolding and generating models, views and controllers are some great Ruby features!
