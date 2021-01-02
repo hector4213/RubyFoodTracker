@@ -4,4 +4,4 @@ A simple application where users can log their daily food intake. Users can crea
 
 ### But why?
 
-To practice CRUD operations in Ruby, get a sense of how Magical Rails really. Scaffolding and generating models, views and controllers are some great Ruby features!
+To practice CRUD operations in Ruby, get a sense of how Magical Rails really is. Scaffolding and generating models, views and controllers are some great Ruby features!
